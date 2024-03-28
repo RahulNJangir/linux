@@ -1,0 +1,5 @@
+gzip: Compress files with gzip.
+bzip2: Compress files with bzip2.
+xz: Compress files with xz.
+tar: Create archives.
+zip: Create zip archives.
