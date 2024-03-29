@@ -1,5 +1,5 @@
 #File Management Commands
-cd: Change directory
+`cd`: Change directory
 ls: List directory contents
 pwd: Print working directory
 mkdir: Make directory
