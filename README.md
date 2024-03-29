@@ -1,2 +1,9 @@
 # This repo is for linux commands
-<h1>This repo is for linux commands created by Rahul Jangir</h1>
+### Following is the example of file management commands  
+
+`cd` : Change directory  
+`ls` : List directory contents  
+`pwd` : Print working directory  
+`mkdir` : Make directory  
+
+###### -By Rahul Jangir
