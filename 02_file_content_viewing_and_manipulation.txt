@@ -1,9 +1,0 @@
-cat: Concatenate and display file content
-more: Display output one screen at a time
-less: Opposite of more; view file content page by page
-head: Display the beginning of a file
-tail: Display the end of a file
-grep: Search for patterns in files
-sed: Stream editor for filtering and transforming text
-awk: Powerful text processing tool
-tee: Redirect output to multiple files and standard output
