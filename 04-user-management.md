@@ -1,19 +1,19 @@
 # User Management Commands 🛡️
 
 ## `useradd`
-Create a new user.
+👤 Create a new user.
 
 ## `userdel`
-Delete a user.
+🗑️ Delete a user.
 
 ## `usermod`
-Modify user properties.
+🔧 Modify user properties.
 
 ## `passwd`
-Change user password.
+🔑 Change user password.
 
 ## `chage`
-Change user password expiry information.
+⏳ Change user password expiry information.
 
 ## `su`
-Switch user.
+🔀 Switch user.
