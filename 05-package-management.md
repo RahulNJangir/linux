@@ -1,7 +1,16 @@
 # Package Management Commands 📦
 
-## `apt-get`
+
+```
+apt <install> <package-name>
+```
+ 🟢 Package handling utility for Ubuntu systems.
+
+```
+apt-get
+```
 🟢 Package handling utility for Debian-based systems.
+
 
 ## `yum`
 🔴 Package manager for Red Hat-based systems.
