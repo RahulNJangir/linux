@@ -1,9 +1,0 @@
-watch: Execute a program periodically, showing output fullscreen
-curl: Command-line tool for transferring data with URL syntax
-wget: Retrieve content from web servers via HTTP, HTTPS, and FTP
-locate: Find files by name quickly
-find: Search for files in a directory hierarchy
-sort: Sort lines of text files
-uniq: Report or filter out repeated lines in a file
-wc: Print newline, word, and byte counts for each file
-diff: Compare files line by line

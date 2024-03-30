@@ -1,8 +1,0 @@
-ps: Display information about active processes.
-top: Show real-time process information, sorted by resource usage.
-htop: Interactive version of top with more features and customization.
-kill: Terminate processes by ID or name.
-pkill: Send signals to processes based on name.
-killall: Kill processes by name.
-bg: Move a process to the background.
-fg: Bring a background process to the foreground.

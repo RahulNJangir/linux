@@ -1,3 +1,0 @@
-shutdown: Shutdown or restart the system.
-reboot: Reboot the system.
-halt: command is used to immediately stop and power off the system.
