@@ -40,7 +40,18 @@
     - default priority = 0
     - least nice = -19
     - watch ps
-    - 
+    - ps -elf
+    
+crontab-generator.org
+systemctl list-unit-files -t service
+ crontab commands
+ - crontab -e
+ - crontab -l
+ - crontab location = "/var/spool/cron/crontabs"
+ - crontab for hoourtly seddule of work - /etc/cron.hourly
+ - man cron
+ - daemon to execute scheduled commands
 
-
-   
+The allow Files - "/etc/at.allow" , "/etc/cron.allow"
+The deny Files - "/etc/at.deny" , "/etc/cron.deny"
+ less /etc/security/access.conf => this file has more info
