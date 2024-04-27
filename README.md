@@ -1,9 +1,4 @@
 # This repo is for linux commands
-### Following is the example of file management commands  
+## feel free to use and share 
 
-`cd` : Change directory  
-`ls` : List directory contents  
-`pwd` : Print working directory  
-`mkdir` : Make directory  
-
-###### -By Rahul Jangir
+### Thank you!
